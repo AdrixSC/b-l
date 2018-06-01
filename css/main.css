@@ -4,7 +4,7 @@ a {
     font-style: italic;
 }
 
-.container {
+.container__border {
     border: gray 1px solid;
 }
 
@@ -37,19 +37,19 @@ p {
     color: black;
 }
 
-.input {
+.donation__input {
     width: 35%;
     margin-right: 10px;
 }
 
-.btn-green {
+.btn__give-now {
     background-color: #00c838;
     border-radius: 3px;
     padding: 10px;
     color: white;
 }
 
-.btn-gray-ligth {
+.btn__footer-ligth {
     background-color: #fafafa;
     color: gray;
 }
